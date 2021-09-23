@@ -7,9 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         9 mins          ██████████████▓░░░░░░░░░░   59.01 % 
-Git Config   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-JavaScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
