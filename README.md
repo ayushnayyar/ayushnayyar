@@ -7,11 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP              54 mins         ███████████████▒░░░░░░░░░   61.29 % 
-CSS              12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Apache Config    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-JavaScript       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Blade Template   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JavaScript       7 mins          █████████████████▒░░░░░░░   69.12 % 
+Blade Template   3 mins          ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 ```
 <!--END_SECTION:waka-->
 
