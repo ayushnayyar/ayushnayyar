@@ -7,8 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript       7 mins          █████████████████▓░░░░░░░   70.83 % 
-Blade Template   3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.17 % 
+JavaScript   25 mins         ███████████████████▒░░░░░   76.95 % 
+JSON         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
 ```
 <!--END_SECTION:waka-->
 
