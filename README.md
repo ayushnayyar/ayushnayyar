@@ -7,6 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 14 mins
+
 JSON   14 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
